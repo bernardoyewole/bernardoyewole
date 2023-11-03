@@ -1,7 +1,7 @@
-<img src="./banner.jpg" align= "center"/>
+![Header](./github-header-image.png)
 
 ## About me
-Hello world. I'm Bernard Oyewole, a software developer in training at Manitoba Institute of Trades and Technology.
+Hello, world. I'm Bernard Oyewole, a software developer in training at Manitoba Institute of Trades and Technology.
 
 I'm a dedicated student committed to honing my skills in web development, with a keen focus on creating aesthetically pleasing and highly functional applications.
 
