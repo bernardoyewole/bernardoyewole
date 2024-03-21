@@ -3,9 +3,9 @@
 ## About me
 Hello, world. I'm Bernard Oyewole, a software developer in training at Manitoba Institute of Trades and Technology.
 
-I'm a dedicated student committed to honing my skills in web development, with a keen focus on creating aesthetically pleasing and highly functional applications.
+I'm a dedicated student committed to honing my skills in software development, with a keen focus on creating aesthetically pleasing and highly functional applications.
 
-I'm currently learning how to use git and github. My programming experience is mainly JavaScript. I also know how to work with the technologies HTML and CSS.
+I'm currently learning how to create .NET web APIs. My programming experience is mainly JavaScript and C#. I also know how to work with the technologies HTML/CSS.
 
 ##
 
