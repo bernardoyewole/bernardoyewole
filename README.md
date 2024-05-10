@@ -3,6 +3,8 @@
 ## About me
 Hello, world. I'm Bernard Oyewole, a software developer in training at Manitoba Institute of Trades and Technology.
 
+Check out my portfolio [here](https://bernardoyewole.github.io/portfolio/)
+
 I'm a dedicated student committed to honing my skills in software development, with a keen focus on creating aesthetically pleasing and highly functional applications.
 
 I'm currently learning how to create .NET web APIs. My programming experience is mainly JavaScript and C#. I also know how to work with the technologies HTML/CSS.
@@ -18,6 +20,13 @@ I'm currently learning how to create .NET web APIs. My programming experience is
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
 ##
